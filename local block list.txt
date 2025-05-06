@@ -1,0 +1,42 @@
+! Title: Custom AdGuard DNS Blocklist
+! Description: Xiaomi, Facebook, Google, Microsoft, Samsung ve Avast telemetri/izleme alan adları
+! Version: 2025.05.06
+! Last modified: 2025-05-06T19:40:00Z
+! Homepage: (isteğe bağlı GitHub URL'si buraya eklenebilir)
+
+||graph.facebook.com^
+||b-graph.facebook.com^
+||api.facebook.com^
+||z-m-gateway.facebook.com^
+||z-p42-chat-e2ee-ig.facebook.com^
+||chat-e2ee-mini.facebook.com^
+||firebase-settings.crashlytics.com^
+||firebaseremoteconfig.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||mobile.pipe.aria.microsoft.com^
+||mobile.events.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||userlocation.googleapis.com^
+||api.account.samsung.com^
+||api.samsungcloud.com^
+||wu2z-api.samsungcloud.com^
+||dcg.microsoft.com^
+||ncc.avast.com^
+||ip-info.ff.avast.com^
+||filerep-replica-win.ff.avast.com^
+||honzik.avcdn.net^
+||emupdate.bav.avcdn.net^
+||in.appcenter.ms^
+||googleads.g.doubleclick.net^
+||census-app.scorecardresearch.com^
+||tags.tiqcdn.com^
+||a.nel.cloudflare.com^
+||data.mistat.intl.xiaomi.com^
+||mazu.sec.miui.com^
+||flash.sec.intl.miui.com^
+||metok-ccc.intl.xiaomi.com^
+||api.hybrid.intl.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||api.ad.intl.xiaomi.com^
+||sg.global.market.xiaomi.com^
+||fp-afd.azureedge.us^
