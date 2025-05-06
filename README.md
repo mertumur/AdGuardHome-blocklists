@@ -6,7 +6,7 @@ Düzenle
 ! Description: Xiaomi, Facebook, Google, Microsoft, Samsung ve Avast telemetri/izleme alan adları
 ! Version: 2025.05.06
 ! Last modified: 2025-05-06T19:40:00Z
-! Homepage: (isteğe bağlı GitHub URL'si buraya eklenebilir)
+! Homepage: (https://github.com/mertumur/AdGuardHome-blocklists)
 
 ||graph.facebook.com^
 ||b-graph.facebook.com^
@@ -51,11 +51,7 @@ GitHub’da yeni bir repo oluştur ve bu dosyayı yükle.
 
 "Raw" bağlantısını al:
 
-arduino
-Kopyala
-Düzenle
-https://github.com/mertumur/AdGuardHome-blocklists/blob/main/local-block-list.txt
-AdGuard Home > Filters > Custom Filtering List bölümüne bu URL’yi ekle.
+https://raw.githubusercontent.com/mertumur/AdGuardHome-blocklists/refs/heads/main/local-block-list.txt
 
 "Apply" ve "Refresh" yap, filtre aktif olur.
 
@@ -87,11 +83,7 @@ A lightweight DNS blocklist targeting telemetry, analytics, and tracking domains
 🔗 Raw List URL
 Use this URL to import into AdGuard Home:
 
-bash
-Kopyala
-Düzenle
-https://github.com/mertumur/AdGuardHome-blocklists/blob/main/local-block-list.txt
-Replace <kullaniciadi> and <repoadi> with your actual GitHub username and repository name.
+https://raw.githubusercontent.com/mertumur/AdGuardHome-blocklists/refs/heads/main/local-block-list.txt
 
 🛠️ How to Use in AdGuard Home
 Go to Filters > Custom Filtering Rules > Add Custom Filtering List
