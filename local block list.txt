@@ -2,7 +2,7 @@
 ! Description: Xiaomi, Facebook, Google, Microsoft, Samsung ve Avast telemetri/izleme alan adları
 ! Version: 2025.05.06
 ! Last modified: 2025-05-06T19:40:00Z
-! Homepage: (isteğe bağlı GitHub URL'si buraya eklenebilir)
+! Homepage: (https://github.com/mertumur/AdGuardHome-blocklists)
 
 ||graph.facebook.com^
 ||b-graph.facebook.com^
