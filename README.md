@@ -54,7 +54,7 @@ GitHub’da yeni bir repo oluştur ve bu dosyayı yükle.
 arduino
 Kopyala
 Düzenle
-https://raw.githubusercontent.com/kullaniciadi/repoadi/main/blocklist.txt
+https://github.com/mertumur/AdGuardHome-blocklists/blob/main/local-block-list.txt
 AdGuard Home > Filters > Custom Filtering List bölümüne bu URL’yi ekle.
 
 "Apply" ve "Refresh" yap, filtre aktif olur.
